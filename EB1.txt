@@ -1,0 +1,54 @@
+{
+    "EstimatedBillServiceResponse": {
+        "customerBillSpecs": [
+            {
+                "cycleStartDate": 1648760400000,
+                "cycleEndDate": 1651266000000,
+                "totalAmount": 0.00,
+                "totalServiceDevicesAmountWithTaxX9": 0.00,
+                "totalUncategorizedAmountWithTaxX9": 0.00,
+                "dueDates": [
+                    {
+                        "productName": "Mobile Product",
+                        "productOrderID": "86505",
+                        "dueDate": 1651265999000,
+                        "productServiceID": "unknown",
+                        "formattedDueDate": "04/29/2022",
+                        "isBillRequestDate": true,
+                        "productOrderActionID": "86506",
+                        "productBillSpecAction": "New"
+                    }
+                ],
+                "formattedBillDate": "05/01/2022",
+                "formattedCycleStartDate": "04/01/2022",
+                "formattedCycleEndDate": "04/30/2022",
+                "formattedBillRequestDate": "04/29/2022",
+                "billRequestDate": 1651265999000,
+                "billSpecID": "1000004965",
+                "billDate": 1651352400000,
+                "totalAmountWithTax": 0.00,
+                "totalUCAmountX9": 0.00,
+                "totalUnlimitedAmountWithTaxX9": 0.00,
+                "totalUnlimitedPlusAmountWithTaxX9": 0.00,
+                "totalSmartWatchAmountWithTaxX9": 0.00,
+                "totalOCAmount": 0.00,
+                "totalRCAmount": 0.00,
+                "totalBTGAmountWithTaxX9": 0.00,
+                "isCustomerReratedAfterUpgradeX9": "Y",
+                "previousBalanceAmountX9": 0.00,
+                "totalFinancialActivitiesAmountWithTaxX9": 0.00,
+                "totalImmediateCreditsReceivedAmountWithTaxX9": 0.00,
+                "totalPaymentsReceivedAmountWithTaxX9": 0.00,
+                "totalOtherCreditsAmountWithTaxX9": 0.00,
+                "pastDueIncInLastBillX9": 0.00,
+                "totalAmtCurrMnthChgsX9": 0.00,
+                "autoPayDateX9": "1653080400000",
+                "totalOCAmountWithTax": 0.00,
+                "totalRCAmountWithTax": 0.00,
+                "currency": "USD"
+            }
+        ],
+        "dstSavings": 3600000,
+        "offset": 7200000
+    }
+}
